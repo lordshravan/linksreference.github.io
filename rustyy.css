@@ -1,0 +1,52 @@
+/* Reset some default browser styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+/* Style the header */
+header {
+    background-color: #555; /* Change to grey */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the main title */
+h1 {
+    font-size: 28px;
+}
+
+/* Style the references section */
+.references {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style individual references */
+.reference {
+    margin-bottom: 20px;
+}
+
+/* Style reference links */
+.reference-link {
+    color: #555; /* Change to grey */
+    text-decoration: none;
+}
+
+/* Style book titles */
+.book {
+    font-style: italic;
+    color: #555;
+}
+
+/* Add some spacing and alignment for better readability */
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
